@@ -271,7 +271,7 @@
                  "value":"{{^exitWestURL}}1{{\/exitWestURL}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":67,
          "x":0,
          "y":0
@@ -437,12 +437,17 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"barcelone"
+         "value":"Huge Open space"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"script-crackthecode.js"
+         "value":"script.js"
+        }, 
+        {
+         "name":"tutorial",
+         "type":"bool",
+         "value":true
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
