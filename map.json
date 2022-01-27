@@ -422,19 +422,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Custom map VEEPEE"
+         "value":"Suitable for up to 150 users.\n\nTell all your colleagues to join you in this huge open space! Ideal for a video game development team... Wait, developing a video game within a video game... Video gamecepion!"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/play.workadventu.re\/@\/veepee\/brief-virtual-office\/barcelone"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Huge Open space"
